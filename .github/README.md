@@ -9,6 +9,8 @@
 * Loop, Seek, Shuffle, Specific Skip, Playlists etc support
 * Multi-Language support
 
+This Repository just supports Yukki Music Deployment on HEROKU.
+
 
 # ⚡️ Getting Started [[Documentation](https://notreallyshikhar.gitbook.io/yukkimusicbot/)]
 
